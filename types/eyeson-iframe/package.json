@@ -1,0 +1,19 @@
+{
+  "name": "@types/eyeson-iframe",
+  "version": "1.0.0",
+  "private": true,
+  "description": "iFrame API for eyeson GUI",
+  "nonNpm": true,
+  "projects": [
+    "https://docs.eyeson.com/docs/iframe/intro"
+  ],
+  "owners": [
+    {
+      "name": "Stefan Benicke",
+      "githubUsername": "opusonline"
+    }
+  ],
+  "devDependencies": {
+    "@types/eyeson-iframe": "workspace:."
+  }
+}
